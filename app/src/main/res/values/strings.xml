@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UTS_PAPB2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+<!--    activity detail marker-->
+    <string name="navigate_label">Navigate</string>
+
+<!--    activity navigation-->
+    <string name="center_on_me_label">Center on me</string>
+
+<!--    activity add marker-->
+    <string name="add_marker_label">Add Treasure Marker</string>
+    <string name="input_marker_name_label">Marker Name</string>
+    <string name="input_latitude_label">Latitude (e.g. -7.776025)</string>
+    <string name="input_longitude_label">Longitude (e.g. 110.376071)</string>
+    <string name="add_label">Add</string>
+    <string name="toast_add_marker_label">Successfully added marker!</string>
+
+<!--    marker adapter-->
+    <string name="toast_remove_marker_label">The marker has been successfully removed!</string>
+
+<!--    fragment settings-->
+    <string name="change_language_label">Change Language</string>
+
+<!--    bottom nav-->
+    <string name="nav_map_label">Map</string>
+    <string name="nav_list_label">List</string>
+    <string name="nav_settings_label">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>

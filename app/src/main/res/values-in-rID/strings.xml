@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS_PAPB2</string>
+    <string name="navigate_label">Navigasi</string>
+    <string name="center_on_me_label">Berpusat pada saya</string>
+    <string name="add_marker_label">Tambahkan Penanda Harta Karun</string>
+    <string name="input_marker_name_label">Nama Penanda</string>
+    <string name="input_latitude_label">Latitude (misal -7.776025)</string>
+    <string name="input_longitude_label">Longitude (misal 110.376071)</string>
+    <string name="add_label">Tambah</string>
+    <string name="toast_add_marker_label">Penanda berhasil ditambahkan!</string>
+    <string name="toast_remove_marker_label">Penanda telah berhasil dihapus!</string>
+    <string name="change_language_label">Ganti Bahasa</string>
+    <string name="nav_map_label">Peta</string>
+    <string name="nav_settings_label">Pengaturan</string>
+    <string name="nav_list_label">Daftar</string>
+</resources>
